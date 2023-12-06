@@ -2,18 +2,19 @@
 The main objective is to answer the following questions:
 
 How many students successfully completed only one course? 
+
 What the most challenging and the easiest exams?
+
 What the average time to complete exams for each subject? 
 
 Identify the most popular subjects (TOP-3) based on the number of registrations. Also, find subjects with the highest attrition rates (TOP-3). 
 
-Using pandas, during the period from the beginning of 2013 to the end of 2014, identify the semester with the lowest course completion rates and the longest average course completion times. 
+ identify the semester with the lowest course completion rates and the longest average course completion times, during the period from the beginning of 2013 to the end of 2014?
 
-Often, for quality audience analysis, segmentation-based approaches are used. Using Python, create adapted RFM clusters of students to qualitatively assess your audience. In adapted clustering, you can choose the following metrics: R - average time to complete one exam, F - course completion rates, M - average score obtained on exams. Describe in detail how you created the clusters. For each RFM segment, establish boundaries for recency, frequency, and monetary metrics for cluster interpretation. You can find the approach description here.
+Create adapted RFM clusters of students to qualitatively assess your audience. The following metrics: R - average time to complete one exam, F - course completion rates, M - average score obtained on exams. 
 
-To solve the task, conduct preliminary data analysis and formulate what should be considered a course. You can justify your choice with facts of exam completion, student distribution, and a unique course identifier.
 
-*Completion rate = number of successful exams / number of all attempts to pass the exam
+You can find the approach description here.
 
 Files:
 
