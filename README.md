@@ -1,11 +1,9 @@
-# First_project 
-Product Manager Vasiliy has asked you to analyze completed lessons and answer the following questions:
+# Project e-learning
+The main objective is to answer the following questions:
 
-How many students successfully completed only one course? (Successful completion means passing the course in the exam).
-
-Identify the most challenging and the easiest exams: find courses and exams within the course that have the lowest and highest completion rates*. 
-
-Determine the average time to complete exams for each subject (considering the student's last successful exam completion). 
+How many students successfully completed only one course? 
+What the most challenging and the easiest exams?
+What the average time to complete exams for each subject? 
 
 Identify the most popular subjects (TOP-3) based on the number of registrations. Also, find subjects with the highest attrition rates (TOP-3). 
 
