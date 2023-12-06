@@ -1,4 +1,7 @@
-# Project e-learning
+# Project e-learning 📔
+
+In this notebook I analyze students behaviour and make RFM-analysis.
+
 The main objective is to answer the following questions:
 
 How many students successfully completed only one course? 
@@ -7,7 +10,7 @@ What the most challenging and the easiest exams?
 
 What the average time to complete exams for each subject? 
 
-Identify the most popular subjects (TOP-3) based on the number of registrations. Also, find subjects with the highest attrition rates (TOP-3). 
+What the most popular subjects (TOP-3) based on the number of registrations? Also, find subjects with the highest attrition rates (TOP-3). 
 
 Identify the semester with the lowest course completion rates and the longest average course completion times, during the period from the beginning of 2013 to the end of 2014?
 
